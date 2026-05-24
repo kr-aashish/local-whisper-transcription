@@ -1,0 +1,710 @@
+ in the OCI environment, which is their own cloud infrastructure and used by millions of users every
+ day, generates better bytes of data every day. So that's basically one product which I'm particularly
+ very proud of. And then I moved to in Moby and my last company was Microsoft. And then in Microsoft,
+ I was working in more like a senior engineering leadership capacity. Where I used to read AI
+ Physically, I've led data science teams, engineering teams, DevOps teams, AI service teams. So almost
+ everything because I was building an N2F product technology. During my whole journey specifically
+ from Oracle, I have been into multiple global places as well. Like I have been in Europe,
+ I have worked in US also for two different locations. One is Boston and second is California.
+ So people who are in US or might know US, they might be aware of that these two are very two
+ different places across around. So these are the places where I work also there. So I have a good
+ experience knowing about what are things works and at the same time, I basically keep going across
+ into different as a consultant, like into different countries, meet interact with them.
+ So have a very fair understanding about what is required from AI and health, what are the
+ difference what these countries kind of look for. So that's going to be about me. Apart from this,
+ I am a hardcore researcher, so I would love to discuss about any research activity if you guys
+ are into it. And basically I published four international papers by now and
+ intentionally adopted from my research book. You can also find my name over Wikipedia because
+ I have contributed recently enough to some open source communities specifically in our programming
+ language, which is used by data scientists. So keeping it short so that I will be able to cover
+ a lot of things which I have planned for today. And before I go into some more things, I just
+ want to quickly talk about what you topic also so that you are also aware of what is going to come
+ next. And I want to set the right expectation so that you are also aware that what you can
+ expect from the session or not expect from the session. So to start from the expectation
+ aspect, basically we are going to talk about AI engineering side or you can say how the new role
+ of engineers using AI is getting involved. And basically my goal would be to talk about
+ with respect to any country. So again, the focus would be that I am enabling you in such a way
+ that if you understand today's session, then it doesn't matter which part you belong to,
+ whichever country you want to go with, you should be able to crack these AI engineering roles across.
+ And I can guide you across that what all possibly other things you should be doing across in different
+ countries and so on. So that will be the main thing across. And I will also be referring about
+ some remote drops because these this specifically there's a huge push towards the remote drops in
+ this area. So I will also be referring to that so that you have a fair idea that where you can
+ learn the picture. So quickly talking about agenda and then I have this one interesting item to talk
+ more on this. So I am going to talk about the first earthquake. Don't you think AI is acting
+ like earthquake right now? Because if you think about it, AI is something which is going across
+ in terms of every layer of you just keep hearing because of AI they did layer of and so on right?
+ You must be hearing about it a lot. So I am going to talk about this part in detail.
+ Let's welcome to some reality around this. Then who is the native AI engineer? So when we say that
+ okay, it's going to be AI engineer. So then I want to basically generally talk about that
+ what exactly do you mean by AI engineering side because a lot of people even do not know about it.
+ Then I will be talking about some agent orchestrations. So if agent is a new keyword,
+ I will be talking about what is means by this. And then I will talk about what's a new interview
+ processes because interview processes have completely changed what used to happen before.
+ So I want to also talk about it. And then some advanced topics of AI engineering like
+ drag agents, LLMobs, Deviles and so on. And in the end, I want to also talk about that what is
+ going to make you exceptionally good in comparison to somebody average. So in a minute, I want to
+ talk about like basically what's a reality of today market. Like if earlier people need 10 engineers,
+ now they need only 2 engineers. So another problem in this case is that if they need 2 engineers,
+ how you can be sure of that you will be part of that 2 engineer group and not the remaining
+ 8 who got laid off. So I will be talking about that part so that it helps you achieve things.
+ And then what should be a roadmap in order to achieve this? What are the skills you need?
+ I will be giving you a lot of open source discussions here that what you can go for. I will also be
+ talking about here that globally if you are targeting in any country, then what are the things
+ possibly have to keep in mind as a roadmap so that you can easily get those roles across.
+ So this is what I have in my agenda list. I hope this is what you are also coming here
+ with an expectation as well because and let me be very honest and frank with all of you.
+ This session is intentionally going to be slightly overwhelming. When I say overwhelming,
+ see I am not here just to tell you very simple, simpler thing and get away with it
+ because I am sure that if you are spending next to us with me, it should be in the motive that
+ you get to know the reality, you get to have some understanding of these terms what you are just
+ seeing on this slide across in front of you. So then when somebody talks to you about these items,
+ you are not surprised by it. You are aware of it what's happening. You can take appropriate actions.
+ If you want to learn these things on your own, then how you can do that. All the items I want
+ to also talk about in detail and one more promise from my end would be that if by the end of the
+ session, you will stay back, I will give you a good surprise and this will only be available
+ for folks who will stick with me till the end. That is for sure. Otherwise, you might not get
+ it, sorry I put that. So that's what I do. Number two is second would be if you guys,
+ I find it really interactively, then I will make sure I will go beyond this agenda and I will cover
+ maybe one more, two more rules which are very high in demand, related to AI only but very high
+ in demand. When I say very high in demand, in India itself, the salary minimum salary is 60 now.
+ Don't you think you would love to know about it? Yes. So what you need to do, be highly
+ interactive during the session. Anything which I do, any activity which I do, I want to see
+ lot of answers because if I see that this session is going with a very high energy,
+ I will ensure that I will do my best to give you a lot of items across this. Awesome.
+ So this, with this, are you all excited to start today's session now? There are
+ two 44 people sitting in the session. I need a yes from all of you. Let's break this yes button,
+ let's break this chat box, let's test that how good platform events killer can live, right?
+ Good way. Now I lovely to see this energy. Now I could see there are some questions coming up
+ case. I can be very honest. I have a lot of topic to cover. I have already announced the agenda as
+ well. So I definitely do not want to spend time over the personal cushion at the minute that hey,
+ I belong to this profile or that profile. Can you help me with this?
+ Run that and test it out. Run that transcribe dot file. So have you made made sure that transcribed
+ dot file runs for every dot MOB file present on my desktop? If yes, then please go ahead and run
+ that file. I want to see the final output. So may the final output your cost thing for all of
+ you. So do not worry about anything around this part. Discuss about your career, whatever you want
+ to discuss in a one on one setting mode. I believe this is going to be totally helpful.
+ Take participate. It will just stay for 30 seconds. So quickly do that. And then we will start today's
+ session again. Guys, I would request that if all of you can be participant into it. And like I said,
+ it's not going to be any sales station or anything. So it's going to be our own discussions, whatever
+ you want to do. And trust me after this session, you will have a lot of questions running in your
+ mind, because we will have so much of clarity. Then you will say that, okay, now I want to understand
+ about my thing. Okay. So take advantage of this. And you will find me later about this time. Last
+ 13 second guys, half of you have not participated. So request all of you to please participate
+ very quickly on this. 5 seconds. Take take 3, 2, 1. Let's go. Now let's start with the topic
+ today. What exactly we are going to do? Let me start with the earthquake. Right? And if I do that,
+ I want to start with a very interesting pointer, which was in news, applicants for a long time.
+ So I wanted to talk about exactly the same side of the thing. So there was a fresh Berkeley CAs graduate.
+ How many of you have got this university name? It's a top 10 US university, you can say, if it
+ globally, I should say, it's much, much better than IITs and all. So very good branded in just
+ like how MIT, Stanford, CMU and all are there. It's basically the next level after that. So it's
+ one of the top in, graduate from that. So definitely even in India, when we think about
+ graduates of IIT, right, the first thing which consider a mind is that, okay, these guys know
+ we'll get here, right? What's the problem with them? So the same expectation was there with
+ the Berkeley CAs graduate. In fact, if you ask me a few years back, the situation was that
+ they were like every person in both universities have two or three offers and they are the choosers.
+ Okay, now I'm talking about that graduate. This graduate applied in almost 1000 companies.
+ He heard that only from two, only from two, not getting a rejection even,
+ not went through the interview loop, just heard that from...
+ Can you see the final output generated? I don't think it's up to the market. It's having only
+ two lines only. It is, can you analyze the everything which we have done, input and the output?
+ Content that, okay. What's happening even in the top, tired university.
+ Now, like I said, Berkeley being top 10 CS school on the planet, I'm not talking about US only,
+ 1000 applications, two responses. If you are a software engineer today and haven't felt this
+ yet, you will feel it in next 12 months. That's why, currently, either you might have already
+ started seeing the transition happening or you will start seeing it very soon. My job in the next
+ few hours, maybe two hours or some bottom of time I will take around this, is going to just make
+ sure that when it hit you, you are on the right side of the wave so that you are not having any
+ trouble. Remember I told you this fact that if two people are required instead of spent,
+ I want you to be the part of two. So, that is going to be the overall goal and agenda for me,
+ overall in this particular session for you. Now, let me tell you or let me make
+ you promises for you also. If I talk about everyone, I want to also talk about how the new
+ interview formats are going to come up in future, not future, sorry, sorry, sorry,
+ sorry, I'm sorry, if I talk about meta, LinkedIn, OpenA and what exactly is happening for them,
+ I will be giving you this as a promise. Now, I said future, it's just few minutes back because
+ do these few companies have adopted this new style of interview, but I'm sure in future,
+ every company will adopt it. So, that's one. Number two is if I talk about freshers,
+ I can tell you I have seen people with no GPA, getting a better job, they are getting hired
+ and folks who have better GPA, GPA means grading what you get in top 10 university,
+ that no GPA guy got a job. So, what exactly that guy is doing differently?
+ I'm also going to look at this. If I talk about mid-experience guys, maybe three to five-year
+ experience what people are setting here. I will be giving you a good guidance that where you should
+ be spending your energy for next six-month probably so that you can hit your salary factor because
+ these are the folks who generally think I'm already a senior, how this AI wave can hit me,
+ so I'm going to give you that notion as well. And then the seniors who could be six plus,
+ I am going to talk about some advanced topics for you, maybe agent orchestition, drag, LLMOPs,
+ evals at a level that you can use in given in your architecture from tomorrow itself.
+ You will have enough knowledge from today itself. Can you save the walkthrough? I
+ especially want the walkthrough about how I can take any video and I can generate the final audio,
+ final transcript out of it. And that's what we have done. Is that correct? And if that is so
+ whatever walkthrough you have designed as an article, can you save that walkthrough on the
+ desktop also? Who can explain all of these two others? I'm not going to say that I'm going to cover
+ a lot today, blah, blah, and so on. I don't want to make any wrong promises. But this is my promise at
+ least that at least you will be in a good shape in next to us that you have enough idea about what's
+ going to come next. And I will be very transparent in my discussions. I don't want to keep doing
+ any puttering around that, okay, if you do this, this is great and all that. I want to talk only
+ from the reality perspective. And I believe that this is what even you guys would love.
+ Now, let's move on. The perfect storm. If I look at the perfect storm, what exactly happened
+ in 2020, 2022, COVID-19? What exactly happened during that time? I believe all of you who are
+ soft engineers, in fact, how many of you are soft engineers?
+ Quite a lot. So people who are soft engineers, even if you're not soft engineers, you could be
+ belonging to any tech field, etc. At that moment, you might have observed that during COVID-19,
+ for a lot of people were getting job. One CR compact, two CR compacted, three CR compacted.
+ People were getting jobs left and right. They were doing work from home and switching jobs,
+ doing two good jobs. I haven't seen that. A lot of things. What happened? Companies started over
+ hiring, almost 30 to 40 percent of over hiring happened. Then they start cutting off 20-30 percent
+ at that time, which you might have got around 20-60 as a layoff. It was a very minimal layoff
+ at that time, but yes, there was a layoff talk in 2020. At the same time, what also happened is,
+ when there were a lot of hiring in the COVID-19 frame, the C.S. universities thought that it's a
+ good time to bring a lot of new folks, because now people start thinking, oh, in C.S. so there
+ is a lot of money. So they started saying, hey, we have more seats for C.S. degree, I.T. degree,
+ and so on. And due to this, more enrollment started happening with this. And due to this,
+ more people started coming out of those universities. That means more junior folks became available
+ in the market. Now, let's talk about River 3, which is AI goes mainstream after 2022.
+ What happened? In November 2022, chat GPT came. And what happened with this?
+ The company started asking this question, do I really need five to ten people right now to do
+ this work? Can I not just solve it by using one or two folks who know AI and can solve the same
+ problem for me? That's how the impact of this River 3 started. So the first flow of the river,
+ COVID, everything was gloomy. There were two where a lot of people started becoming available in the
+ market, but less a job. River 3, where AI now companies started questioning whether we really
+ need this many number of folks. Can I solve the problem using AI native mindset? That's going to
+ be the one which I will be talking about. Means, can I have, can I just hire fewer people and they
+ should be AI native to solve my team. So for a lot of employers, they started considering,
+ do I need to hire more people to fill my gaps? Or can I just hire fewer people who are native at
+ AI? And that way, cover the same quota what we were having before. That's a simple thing,
+ what just started happening with this. In fact, now that we give you stats, because I know I have
+ told you some scary points, but let me tell you some interesting pictures also around it.
+ In 2026 in India itself, we're going to talk about it. In software development industry itself,
+ we have 30% of year to year new hiring, which happens. Almost 67,000 plus jobs came in the market.
+ At the same time, we also have 52,000 tech layoffs in 2026 starting. Now, most of these
+ layoffs were attributed to AI because companies started seeing we are using AI to do all this
+ transitions and that's why we are doing this. So the market, if you look at it, it's not shrinking.
+ It is only splitting. Means, ingenious with two plus AI skills earns 43% more than the peer in
+ the same year of experience right now. And that is the number we yourself right now know because
+ in our side, also a lot of placement happens across with this plus these are the reports outside of
+ another what the 3% higher jobs are these being presented, which means it's not like anything
+ has stopped. It's just that nobody is telling you the other side of story that if there is a layer,
+ then there is a new style of job opening, which is already there as well, which if you can grab
+ up, it's a good win-win situation to have. Let me give you few analogies to silence you slightly
+ more. If you are worried right now, I don't care what's going to happen, am I going to be still
+ relevant with this AI wave or not? Do you remember W-W-W wave? If anybody who's a old guy like me,
+ he might have heard. So basically, there was an AI wave. What happened? Sorry, W-W-W wave. So when
+ W-W-W came in the market, then people used to at that time write code in code mode language,
+ SMV language, basic programming language. Now these programming language don't even exist,
+ but at that time, those are famous. Now what happened when W-W will enter into the market,
+ people start saying up to market is gone, IT industries do, why? Because everything is available on
+ the internet. Secondly, now the new languages feature coming in C, C++, Java, Python, they are
+ more easy to write. So now, how do everything is doomed? That was the exact talk used to that.
+ If you like in panic, a lot of layoffs started happening even during that time,
+ because a lot of people were not willing to transition. Companies started looking now the new
+ W-W wave, and they started getting better ideas to build better products. Now you tell me,
+ because of W-W-W, do you think the situation of what was or the situation had become better?
+ What had happened? Much better, right? Today we exist because of W-W-W,
+ right? Today we are talking because of this W-W. In fact, new kind of product development started,
+ a lot of new initiatives started, and then basically more demand of ingenious started happening.
+ But the only thing was people have to make that move. People have to start learning a new skill set.
+ The earlier the skill set, which was there, the common basic, people have to come out of it,
+ and have to start learning with a new W-W-W wave, and okay, what is now next happening? You are
+ exactly standing at the same level with A-I. A-I is the next W-W-W, that's it. Even if I talk
+ about one more example, when ATU Scott introduced in Bank, first time, lot of time tellers were
+ in panic. They were like, now banks ATU's are available, we do cash in cash out, our job is gone,
+ right? And it didn't happen in fact. Only problem happened was that folks who were only doing cash
+ in and cash out got replaced, but in fact more branches opened up in Bank. Bank started building
+ like relationship manager concepts and all that. Bank started creating new goals. So all those
+ people have to make that transition there. People who were able to adopt with this wave,
+ they were able to sustain, not just sustain, they started doing much better than their earlier job.
+ So same thing with A-I as well. That's a simple thing, what you need to keep in mind, which means
+ A-I native engineering doesn't matter if we are talking in India, we are talking with
+ US, we are talking in Australia, we are talking in Europe, it's going to stay same and you should
+ not fear with this A-I. In fact, you have to just transition into this and I will help you with all
+ this today, that when I say transition, what do you mean by this? So that you have an idea that
+ what are the earlier days, what are the new ways and what you need to adopt with yourself.
+ So if I look at the old mode of engineering, what happens? In fact, people who are already
+ an engineer, they can relate to this really well. They work on tickets, so there is something called
+ as zero tickets, so they will write the caller code code and they will pick up the genetic
+ ads from the queue and start doing their job. But now with A-I in native engineering,
+ that expectation has changed, you are not going to pick up the open tickets, now it's all about
+ outcome shipping. You need to shift out, you need to make sure that whatever is expected as an end
+ to end product, can you do it for me? You may have to build three to five agents, if you do not
+ know what is agents, I am going to talk about it in a few minutes. And these all agents are
+ going to work in parallel, so let me talk about agents. I hope all of you are aware of what is
+ LLM model, if not, let me quickly brief you about it. LLM is nothing but your transcription plot,
+ these are already trained model, you ask questions, it gives you new results, right,
+ that's what LLM model is. Now think of agents as it on the LLM models, you have given their
+ hands, leg, brain and so on. Now what is happening with this, now with this agent, with the hands,
+ now it can, you can do your body, you can do much more job, right. Same way, now the LLM will be
+ able to do much more things, it can make autonomous decision, just like if you have had a very smart
+ agent and you told some work to be done by him, he started using his brain and able to give you
+ some interesting solution, that is what exactly is an agent, so agent can use everything to get
+ the job done, now it will use the LLM which is the brain, it will use DB which you come to the back,
+ we will discuss about that also, but the idea is agent can use to everything to get the job done,
+ for example if I say, hey can you book me the flight from Bangalore to Mumbai in less than
+ 5000 rupee ticket, should be 0 stop, basically do everything with it and done, you will see
+ what is exactly going to happen with this, the agent will go figure out on its own that
+ okay need to connect with let us say made my trip or yapper.com, we will figure out that okay
+ which is the most cheapest tickets available for this, we will figure out as per your preference,
+ let us say you said I want morning credit, it will search for morning credit, we will
+ book it also for you, and if you do not find it will give you a suggestion, hey you know what,
+ I am not finding this, but I am finding the one stop flight which is cheaper, do you want me to
+ do that, so it is just like if you are telling to intern to do that, intern will also follow the
+ same process, similarly even agent will follow the same process, so agent is nothing but
+ think of it like a smart intern who is doing the job, now so that is part which going to be
+ different for AI native engineer, let us talk about performance side of the things, in performance
+ side though engineers are generally looked at okay how many lines of code they have written,
+ how many GRA tickets they have worked on, but now with the AI native, the performance is going
+ to be how many total features are delivered and what is the impact you have made on the customer,
+ can you see this have completely changed, earlier this impact used to be like for the senior folks,
+ but now it is expected on you as a single person, then in resume you will be having like react,
+ Java thing boot and so on, but here you will not just have real Java Spring Boot, but you will have
+ drag agents, emails, LLMOps also around with this and then compressed basically what is also going
+ to happen across in this case, if I look at the job growth now, just the native software engineers
+ they do not have much of the jobs available at the minute, but because it is all being purchased
+ by AI, but at the same time if I look at AI native software engineers, their job roles in India
+ is 40 to 90 lakh per annum and I am talking about Bangalore numbers, you look at San Francisco,
+ US side of the things, it is 300 to 500K dollars which is pretty good, in fact it is higher in
+ comparison to what people used to get earlier, because with lesser set of people I can get things
+ done faster, that is the idea, so people do not hesitate to pay them if the person is really really
+ good, now honest audit from all of you, think about last Friday, if you are a software developer
+ or any tech side of the person, with side of the table was a day out, or maybe let us talk about
+ yesterday itself, when as they or Tuesday or Monday or whatever they look like, can you help me with
+ side of the table you belong, side A or side B, can you all answer that?
+ No, I am asking your current state, where you want side A or side B,
+ awesome, if you see the chats I believe it is like 60% towards maybe A and maybe 40% towards B
+ also, right, so if you are on B that is great, so now my goal for people who said B would be to
+ ensure that you will be thinking at a senior level what exactly will be required from you,
+ so they will be a lot of goodies going to come for you as well, perfect, now let me talk about
+ salaries, though I generally do not like to talk about salaries but still I thought let me
+ bring it up, now and the reason I want to bring up this is because I have, when I was talking with
+ a lot of folks, a lot of folks says that I am a senior, how this is going to impact me, right,
+ they say I have seen these words literally, so I want to show you the reality around this
+ part, look at the salary numbers and if you notice the salary number mostly for the same year of
+ experiences you will see a huge bump if you compare these two and this bump keep on increasing
+ as and then you become senior, even if you talk about India or if you talk about US this bump
+ is eligible in both the side, it means do not think that okay why I should be worried about,
+ if you are really want to make sure that you go to the next level you should start thinking
+ about this pay factor also or not and that is why I am talking about all these numbers globally,
+ definitely I am not bringing New Zealand or other every country but you got the idea,
+ if this country is the same definitely the same demand is going to float across coming from anywhere
+ so that is going to be the case, now and by the way when I talk about these numbers I am not
+ talking about it only about the man companies and so on, I am talking from mid to a high level
+ company okay so do not worry about this then, now which means the passer talks right the money talks
+ and that is why I just wanted to show you this numbers, now this is an interesting question,
+ people ask is AI going to take my job, give me a yes, if you guys have also felt the same
+ during this time travel, be honest it is okay okay very less people are answering guys I need
+ more answers on this perfect, so if you see the split most of you think the same that yes AI can
+ keep my job so let me let me give you one more analogy just like how I gave you the analogy of
+ the bank, the www, let me also give you for excel moment MS excel which was there, now so in excel
+ around 1985 excel came in the market and do you know what accountants started panicking at that
+ day, what actually happened, bookkeepers who refused excel got priced out, unfortunately that is
+ the case for them, accountants who embraced excel became CFO today, because now they modeled
+ handed scenarios with food lunch itself where they was people were able to do maybe one or two
+ or three, that is the power of excel, so excel did not replace the content, it replaced the bottom
+ tyre and accelerated the top tyre, exactly the same thing you can connect with the end, so we are
+ in the first 18 months of the same excel era, we have not came too far still in the very starting
+ state and this is going to go very far from here, so which means you should make sure that you are
+ basically pushing yourself for this and let me talk about few of the interesting pointers here,
+ let us say if I talk about traditional software engineer, so what I do, he will be writing every
+ line manually, he will not be using any AI tool in workflow, he will be giving some good outputs,
+ maybe he is a very smart guy but he will still be working with the 1x productivity, let us talk
+ about 2x productivity, maybe he is a AI curious guy, what do you mean by this, maybe he is using
+ copilot sedition, everybody know what is copilot, data copilot, plot code, these are some AI tools
+ because if you do not know, basically using them, in fact if both of the terms are telling you, then you
+ for you please go get down, okay, so maybe this guy is using the seditions of copilot and he
+ occasionally prompts even chativity but still write few of the code manually, so maybe he will
+ be able to speed up to 2x and I am pretty sure a lot of you will be sitting at this thing, where
+ you might be using the copilot seditions, you might be looking at those, you are just giving the prompt
+ and getting the things done, right, am I right on this path, then a lot of you might be sitting
+ at this level, where you must have increased your productivity to 2x, now let us talk about 5x,
+ which a lot of people do not go with, this is AI assisted mid-level, where it will use cursor
+ frequently, again cursor is also another browser, if you want you can just go and look at this, this
+ is an editor that I should say, it reviews, they review the AI code critically, they write the test
+ first, very common mistake which people do not bother about, they do not write test, very important
+ that you should be writing test first and making sure that you are reviewing the code which is
+ given by AI and getting it tested using your test framework and they also directs agents
+ on your scope to ticket, that is going to be your 5x from here, now going to 10x part of it,
+ right, what these guys do, these are AI native senior guests, they will be orchestrating almost
+ 3 to 5 agents, they manage the context switching, they review the output and they might shift maybe
+ 8+ features per meet, this is crazy number, because a lot of people think that if you go
+ back to the normal scenario, you might have seen that it generally happens that you are spending
+ let us say 3 months and shipping 1 or 2 features, am I right, in a quarter they plan 1 or 2 features,
+ now we are talking about 8 features per week, now see this, what I just said, absorb it for a minute,
+ same catars, nobody have more than that if I talk about normal workars, same salary band,
+ somebody is doing the next, there is somebody is doing 1x, you tell me which guy will be retained
+ by that company, training client or this money client, just reading this, right, no doubt about it,
+ now what I tell people is saying money, best of luck to them, that is not going to help,
+ so definitely it is going to be 10x, which is going to hit the nail, now it means if I look at
+ from today, the single biggest predictor who will make the job redundant in the next 18 months
+ is not going to be based on your Whatsapp age or Whatsapp college or Whatsapp year of experience,
+ maybe it will be decided based on whether you have opened the cursor, whether you have opened
+ the clock code last week or not, whether you are really making sure that you are using this AI tools
+ properly to get your software, and that is where I am going to lead you to, that how you should be
+ getting to the site, okay, let us go back, now so we have now understood quite a lot, I have
+ built a background, now I am going to go to part 2, remember part 1, it was the earthquake,
+ have you all felt that earthquake by now? I even talked about what is the problem, I even talked
+ about that how exactly it is not a problem, right, and I gave you the numbers to talk about it,
+ now let us go to the second one, let us talk about I was continuously saying AI native engineer do
+ this, that, that, blah, blah, blah, what do you mean by this, what exactly is the meaning of this,
+ let us go with this part, let me give you two wings, I know I am not talking about
+ readable developing, okay, I will be talking about two wings which using which I will be
+ telling you a lot of story today, now if I talk about AI native engineer at a course,
+ the AI native engineer is the one that basically have both the strong foundation in traditional
+ programming, your LLD, your system design, your algorithmic thinking and so on, but they are also
+ very competent in your AI and agentic workflow, simple, this is the definition if I have to talk
+ about what do you mean by AI native engineer, now let me go about these wings, right, because I
+ want to connect these wings now with this, this one guy who have been one, he is very good with this
+ and generally before this era we used to be good with this and we were fine, no worry in this place,
+ like you can know DSA algorithm, system design, databases, caching, queue, debugging, unfamiliar
+ code, test writing discipline, maybe I can write low-level design or design patterns and so on,
+ right, so these are the items that we are good with, we are good with this one,
+ may just be a spend of it, it's possible that I may have maybe full stack cutting more or
+ back and cutting more, I'm not writing everything but you understood the way for it,
+ maybe these guys could write even small prompts, right, you can call them prompt monkeys also,
+ but I tell you problem with them, because I know in this cohort whoever are sitting
+ might have been one, might, I'm not saying that you must have but might have, a lot of people might
+ have been one, so they might be using chat GPT or plot to get their answers or maybe to write the
+ code quickly, but if the bug comes out in the production system, these are the guys who panic
+ and I've seen that literally with my eyes, okay, they might be very good at it, but if there is a
+ bug, production bug coming up because you are using prompting and getting the code from that,
+ you have no idea what to do with this, let's talk about wing two, these are AI
+ influential guys, I tell you what they do, they will know prompting very well, they will know
+ agent orchestration, drag, events, LLM of, tracing, blah, blah, blah, very good in this, okay,
+ they're strong in this, in fact I'm sure that few of you might have done maybe some posts from
+ YouTube or some other place or read some of some articles and might have seen this AI tutorials
+ and all that, now these guys are really good with AI, but the problem with these days also is
+ if something goes wrong when they were trying to build systems at the architect level,
+ they will not be able to solve it again, now the problem is this AI guy have majorly the AI
+ knowledge, this guy have majorly the CS fundamental knowledge, both will fail individually,
+ now today market requires both the skill together, it wanted to marry these things together,
+ because if something goes wrong and if you only have AI skill, no it will not help, it will not
+ help at all, how many of you have read articles about it, where it was said that like it happened
+ with Salesforce also in multiple company, where they fired a team because of AI and then they
+ regretted that they fired, they started calling few folks back and we heard this, so these are not,
+ this happened in few of the companies, why this happened?
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
+ [ Silence ]
